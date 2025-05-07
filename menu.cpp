@@ -3,7 +3,7 @@
 using namespace std;
 
 
-void dMenu(){
+void info(){
 system("cls");
 cout<<"Aplikasi Tampilan Menu"<<"\n";       
 cout<<"1. Menu Pertama"<<"\n";            
